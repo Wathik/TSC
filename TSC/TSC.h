@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TSC.h
 //  TSC
 //
 //  Created by Wathik Almayali on 7/5/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TSC : UITableViewController
 
 @end
